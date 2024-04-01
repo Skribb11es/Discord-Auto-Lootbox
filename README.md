@@ -1,10 +1,6 @@
 ## DISCLAIMER
 Although it is highly unlikely that you will be banned for using this, there is a non-zero chance that you can be banned. It is imperative that you understand that there is some inherent risk when using automated tools to interact with Discord's APIs, as it is against their TOS.
 
-
-# Discord-Auto-Lootbox
-A simple Python script to automatically open the 2024 April Fools Day event loot boxes.
-
 ## Usage
 
 You can either compile your own version of this incredibly simple script by using [PyInstaller](https://www.pyinstaller.org) or something similar or just run it locally by installing the pip package `requests` - `pip install requests`
