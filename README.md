@@ -3,7 +3,7 @@ Although it is highly unlikely that you will be banned for using this, there is 
 
 
 # Discord-Auto-Lootbox
-A simple Python script to automatically open the new discord loot boxes
+A simple Python script to automatically open the 2024 April Fools Day event loot boxes.
 
 ## Usage
 
